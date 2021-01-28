@@ -1,5 +1,13 @@
 ## Welcome to Hermits Unite
 
+### Who We Are / Mission Statement
+HelpfulAlliance focus on building, exploring, ROE and killing non player bad guys.
+
+**Join us:** 
+PM Admiral or Commodores in game for invitation.
+
+### Alliance Chat and Discord
+Join our discord server: [Hermits Unite Chat](https://discord.gg/p39EQesjSx
 
 ### Rules of Engagement (ROE)
 
