@@ -3,16 +3,25 @@
 ## Who We Are / Mission Statement
 HelpfulAlliance focus on building, exploring, ROE and killing non player bad guys.
 
-### Warning Message - TBD 
+### Who We Are Not
+Document what we don't do. 
 
 **Join us:** 
+We want you if you are
+- ROE Follower
+- Team Player
+- ...
+
 PM Admiral or Commodores in game for invitation.
 
 ## Resources
 
-### Alliance Chat and Discord
-Join our discord server: [Hermits Unite Chat](https://discord.gg/p39EQesjSx
-
+### Alliance Chat and Discord Servers
+- Join our discord server: [Hermits Unite Chat - https://discord.gg/p39EQesjSx](https://discord.gg/p39EQesjSx)
+- Join the server discord: [STFC Server 55 Discord](https://discord.gg/6yE2EVwCES) _**at your own risk**_!!! - This is like GC.
+- Join the STFC discord: [Star Trek Fleet Command](https://discord.gg/stfc) - You might want to mute it except the official-announcements channel.
+- Join the LCARS discord: [LCARS](https://discord.gg/lcars) - Useful information retrieval terminal dedicated to disseminating info about STFC. Use **PATS - Private Access Terminal System** if you want to hide your terminal output from others.
+  
 ### Rules of Engagement (ROE)
 
 Rules of Engagement (ROE) are rules agreed upon by players in a STFC server. They might be slightly different than in other servers, but these are ours to date. You can also refer to this guide, which is fairly close (if not basically the same) to our ROE: https://www.pvptarget.com/guide#roe
@@ -30,9 +39,9 @@ Rules of Engagement (ROE) are rules agreed upon by players in a STFC server. The
 *If you're into PVP, targeting OPC miners is the way to go. It doesn't violate ROE, doesn't piss off other alliances, and you can get some decent resources out of it.*
 
 **How to tell if someone is UPC or OPC:**
--"Scan" their ship. 
--A "rewards" box will appear in the bottom middle of the screen. 
--If there are resources showing (e.g. dilithium, ore, etc), they're OPC! You can see how much by clicking on the box. If you only see a chest/cargo, do not attack.
+- "Scan" their ship. 
+- A "rewards" box will appear in the bottom middle of the screen. 
+- If there are resources showing (e.g. dilithium, ore, etc), they're OPC! You can see how much by clicking on the box. If you only see a chest/cargo, do not attack.
 
 **Retaliation:**
 Some players out there ignore these rules. It's annoying AF. But all retaliation must follow ROE. So if someone hits you outside of ROE, you're welcome to take out their warship or OPC miner in turn, but not their UPC miner.
@@ -40,7 +49,7 @@ Some players out there ignore these rules. It's annoying AF. But all retaliation
 **Enemies**
 Enemies may be marked as "enemy" in game (red target beside their name). 
 
-Please follow ROE when attacking enemy alliances.
+_**Please follow ROE when attacking enemy alliances.**_
 
 Exceptions: players that are "Kill on Sight" (KOS) by the entire server (ie Erek) & players marked "enemy" in an alliance of one.
 
@@ -51,44 +60,3 @@ Friendlies and Allies: They don't attack our ships and bases, and we don't attac
 Allies: They *may* request assistance, and we *may* or may *not* provide it. Any requests for assistance will first go through alliance leadership.
 
 Do not intervene in any raids or attacks etc of an allied or friendly alliance (beyond pm'ing their admiral/comms, if you wish). If you feel the situation may require it, please confer with alliance leadership. Thanks all!
-
-
-
-
----
-
-You can use the [editor on GitHub](https://github.com/stfc-roe/stfc-roe.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stfc-roe/stfc-roe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
