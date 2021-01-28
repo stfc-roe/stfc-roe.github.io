@@ -1,3 +1,5 @@
+# Hermits Unite
+
 ## Who We Are / Mission Statement
 HelpfulAlliance focus on building, exploring, ROE and killing non player bad guys.
 
