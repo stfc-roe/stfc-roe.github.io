@@ -16,8 +16,7 @@ PM Admiral or Commodores in game for invitation.
 
 ## Resources
 
-### Alliance Chat and Discord Servers
-- Join our discord server: [Hermits Unite Chat - https://discord.gg/p39EQesjSx](https://discord.gg/p39EQesjSx)
+### Other Useful Discord Servers
 - Join the server discord: [STFC Server 55 Discord](https://discord.gg/6yE2EVwCES) _**at your own risk**_!!! - This is like GC.
 - Join the STFC discord: [Star Trek Fleet Command](https://discord.gg/stfc) - You might want to mute it except the official-announcements channel.
 - Join the LCARS discord: [LCARS](https://discord.gg/lcars) - Useful information retrieval terminal dedicated to disseminating info about STFC. Use **PATS - Private Access Terminal System** if you want to hide your terminal output from others.
